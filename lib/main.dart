@@ -66,7 +66,7 @@ class _PerfilHomeState extends State<PerfilHome> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(widget.nombreCompleto), 
+        title: Text('FLORXIAO FMML'), 
       ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
